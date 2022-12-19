@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a5d7461-206d-42ed-9328-4cf3a14f7f85" name="Changes" comment="Implemented second lab">
+    <list default="true" id="0a5d7461-206d-42ed-9328-4cf3a14f7f85" name="Changes" comment="Implemented third lab">
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab1/src/org/example/Formula.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/org/example/Formula.java" afterDir="false" />
@@ -65,7 +64,7 @@
       <workItem from="1665524191282" duration="2393000" />
       <workItem from="1667664053915" duration="612000" />
       <workItem from="1668342823267" duration="597000" />
-      <workItem from="1671456792451" duration="4242000" />
+      <workItem from="1671456792451" duration="5637000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented first lab">
       <created>1664278479964</created>
@@ -81,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671471304598</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Implemented third lab">
+      <created>1671487300479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671487300479</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented first lab" />
     <MESSAGE value="Implemented second lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented second lab" />
+    <MESSAGE value="Implemented third lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented third lab" />
   </component>
 </project>
