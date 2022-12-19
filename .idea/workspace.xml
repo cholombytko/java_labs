@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a5d7461-206d-42ed-9328-4cf3a14f7f85" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="0a5d7461-206d-42ed-9328-4cf3a14f7f85" name="Changes" comment="Implemented first lab">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/Lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/src/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/src/org/example/MatrixClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/src/org/example/Formula.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/org/example/Formula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1/src/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +40,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,8 +63,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664277726455</updated>
-      <workItem from="1664277727953" duration="388000" />
+      <workItem from="1664277727953" duration="8554000" />
+      <workItem from="1664897556073" duration="598000" />
+      <workItem from="1665524191282" duration="2393000" />
+      <workItem from="1667664053915" duration="612000" />
+      <workItem from="1668342823267" duration="597000" />
+      <workItem from="1671456792451" duration="1383000" />
     </task>
+    <task id="LOCAL-00001" summary="Implemented first lab">
+      <created>1664278479964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664278479964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented first lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented first lab" />
   </component>
 </project>
